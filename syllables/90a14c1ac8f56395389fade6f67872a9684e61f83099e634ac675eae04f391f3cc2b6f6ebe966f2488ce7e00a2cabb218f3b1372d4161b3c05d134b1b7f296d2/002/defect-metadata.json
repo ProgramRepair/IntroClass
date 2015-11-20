@@ -1,0 +1,20 @@
+{
+  "identicalDefects": [
+    {
+      "repo": "90a14c1ac8f56395389fade6f67872a9684e61f83099e634ac675eae04f391f3cc2b6f6ebe966f2488ce7e00a2cabb218f3b1372d4161b3c05d134b1b7f296d2", 
+      "revision": "000"
+    }, 
+    {
+      "repo": "90a14c1ac8f56395389fade6f67872a9684e61f83099e634ac675eae04f391f3cc2b6f6ebe966f2488ce7e00a2cabb218f3b1372d4161b3c05d134b1b7f296d2", 
+      "revision": "001"
+    }, 
+    {
+      "repo": "9013bd3be8c00de447e6ed49a0fe0fab037251c28e26954bf780f2f3b929a9e7ce9da037811c76028e4069d3857410f82b8f399c7fa4386ea8f97f80aab1f191", 
+      "revision": "000"
+    }
+  ], 
+  "nbIdenticalDefects": 3, 
+  "program": "syllables", 
+  "repo": "90a14c1ac8f56395389fade6f67872a9684e61f83099e634ac675eae04f391f3cc2b6f6ebe966f2488ce7e00a2cabb218f3b1372d4161b3c05d134b1b7f296d2", 
+  "revision": "002"
+}

@@ -1,0 +1,28 @@
+{
+  "identicalDefects": [
+    {
+      "repo": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae", 
+      "revision": "004"
+    }, 
+    {
+      "repo": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae", 
+      "revision": "005"
+    }, 
+    {
+      "repo": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae", 
+      "revision": "006"
+    }, 
+    {
+      "repo": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae", 
+      "revision": "007"
+    }, 
+    {
+      "repo": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae", 
+      "revision": "008"
+    }
+  ], 
+  "nbIdenticalDefects": 5, 
+  "program": "grade", 
+  "repo": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae", 
+  "revision": "003"
+}
