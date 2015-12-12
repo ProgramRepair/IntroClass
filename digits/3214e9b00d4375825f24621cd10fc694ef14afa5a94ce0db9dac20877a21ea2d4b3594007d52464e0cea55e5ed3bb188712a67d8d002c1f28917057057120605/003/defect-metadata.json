@@ -1,0 +1,20 @@
+{
+  "identicalDefects": [
+    {
+      "repo": "3214e9b00d4375825f24621cd10fc694ef14afa5a94ce0db9dac20877a21ea2d4b3594007d52464e0cea55e5ed3bb188712a67d8d002c1f28917057057120605", 
+      "revision": "001"
+    }, 
+    {
+      "repo": "3214e9b00d4375825f24621cd10fc694ef14afa5a94ce0db9dac20877a21ea2d4b3594007d52464e0cea55e5ed3bb188712a67d8d002c1f28917057057120605", 
+      "revision": "002"
+    }, 
+    {
+      "repo": "3214e9b00d4375825f24621cd10fc694ef14afa5a94ce0db9dac20877a21ea2d4b3594007d52464e0cea55e5ed3bb188712a67d8d002c1f28917057057120605", 
+      "revision": "004"
+    }
+  ], 
+  "nbIdenticalDefects": 3, 
+  "program": "digits", 
+  "repo": "3214e9b00d4375825f24621cd10fc694ef14afa5a94ce0db9dac20877a21ea2d4b3594007d52464e0cea55e5ed3bb188712a67d8d002c1f28917057057120605", 
+  "revision": "003"
+}

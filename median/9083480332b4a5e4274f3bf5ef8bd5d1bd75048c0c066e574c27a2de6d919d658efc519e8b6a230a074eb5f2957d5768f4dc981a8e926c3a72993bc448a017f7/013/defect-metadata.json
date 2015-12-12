@@ -1,0 +1,40 @@
+{
+  "identicalDefects": [
+    {
+      "repo": "9083480332b4a5e4274f3bf5ef8bd5d1bd75048c0c066e574c27a2de6d919d658efc519e8b6a230a074eb5f2957d5768f4dc981a8e926c3a72993bc448a017f7", 
+      "revision": "006"
+    }, 
+    {
+      "repo": "9083480332b4a5e4274f3bf5ef8bd5d1bd75048c0c066e574c27a2de6d919d658efc519e8b6a230a074eb5f2957d5768f4dc981a8e926c3a72993bc448a017f7", 
+      "revision": "007"
+    }, 
+    {
+      "repo": "9083480332b4a5e4274f3bf5ef8bd5d1bd75048c0c066e574c27a2de6d919d658efc519e8b6a230a074eb5f2957d5768f4dc981a8e926c3a72993bc448a017f7", 
+      "revision": "008"
+    }, 
+    {
+      "repo": "9083480332b4a5e4274f3bf5ef8bd5d1bd75048c0c066e574c27a2de6d919d658efc519e8b6a230a074eb5f2957d5768f4dc981a8e926c3a72993bc448a017f7", 
+      "revision": "009"
+    }, 
+    {
+      "repo": "9083480332b4a5e4274f3bf5ef8bd5d1bd75048c0c066e574c27a2de6d919d658efc519e8b6a230a074eb5f2957d5768f4dc981a8e926c3a72993bc448a017f7", 
+      "revision": "010"
+    }, 
+    {
+      "repo": "9083480332b4a5e4274f3bf5ef8bd5d1bd75048c0c066e574c27a2de6d919d658efc519e8b6a230a074eb5f2957d5768f4dc981a8e926c3a72993bc448a017f7", 
+      "revision": "011"
+    }, 
+    {
+      "repo": "9083480332b4a5e4274f3bf5ef8bd5d1bd75048c0c066e574c27a2de6d919d658efc519e8b6a230a074eb5f2957d5768f4dc981a8e926c3a72993bc448a017f7", 
+      "revision": "012"
+    }, 
+    {
+      "repo": "9083480332b4a5e4274f3bf5ef8bd5d1bd75048c0c066e574c27a2de6d919d658efc519e8b6a230a074eb5f2957d5768f4dc981a8e926c3a72993bc448a017f7", 
+      "revision": "014"
+    }
+  ], 
+  "nbIdenticalDefects": 8, 
+  "program": "median", 
+  "repo": "9083480332b4a5e4274f3bf5ef8bd5d1bd75048c0c066e574c27a2de6d919d658efc519e8b6a230a074eb5f2957d5768f4dc981a8e926c3a72993bc448a017f7", 
+  "revision": "013"
+}

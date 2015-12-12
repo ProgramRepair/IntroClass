@@ -1,0 +1,16 @@
+{
+  "identicalDefects": [
+    {
+      "repo": "c868b30a4adebf62b0ed20170a14ee9e5f8bc62d827e9712294ffa4a10ab8423e3d903c29e2392c83963972019a470e667c1987e2547294d1e2d1df1db832912", 
+      "revision": "000"
+    }, 
+    {
+      "repo": "c868b30a4adebf62b0ed20170a14ee9e5f8bc62d827e9712294ffa4a10ab8423e3d903c29e2392c83963972019a470e667c1987e2547294d1e2d1df1db832912", 
+      "revision": "002"
+    }
+  ], 
+  "nbIdenticalDefects": 2, 
+  "program": "smallest", 
+  "repo": "c868b30a4adebf62b0ed20170a14ee9e5f8bc62d827e9712294ffa4a10ab8423e3d903c29e2392c83963972019a470e667c1987e2547294d1e2d1df1db832912", 
+  "revision": "001"
+}

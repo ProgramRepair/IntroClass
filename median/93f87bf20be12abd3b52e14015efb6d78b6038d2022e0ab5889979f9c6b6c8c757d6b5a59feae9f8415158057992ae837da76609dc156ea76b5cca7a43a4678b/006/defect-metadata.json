@@ -1,0 +1,48 @@
+{
+  "identicalDefects": [
+    {
+      "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b", 
+      "revision": "001"
+    }, 
+    {
+      "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b", 
+      "revision": "002"
+    }, 
+    {
+      "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b", 
+      "revision": "003"
+    }, 
+    {
+      "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b", 
+      "revision": "004"
+    }, 
+    {
+      "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b", 
+      "revision": "005"
+    }, 
+    {
+      "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b", 
+      "revision": "007"
+    }, 
+    {
+      "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b", 
+      "revision": "008"
+    }, 
+    {
+      "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b", 
+      "revision": "009"
+    }, 
+    {
+      "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b", 
+      "revision": "010"
+    }, 
+    {
+      "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b", 
+      "revision": "011"
+    }
+  ], 
+  "nbIdenticalDefects": 10, 
+  "program": "median", 
+  "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b", 
+  "revision": "006"
+}

@@ -1,0 +1,12 @@
+{
+  "identicalDefects": [
+    {
+      "repo": "d8b262849e28496f80a8acf7de9758cf3f3a4edf023343521e2e0ac50ec485212a473405570d6c58de6756ae098600d9c7138390faa1aaf6bf3609a8d4016448", 
+      "revision": "000"
+    }
+  ], 
+  "nbIdenticalDefects": 1, 
+  "program": "grade", 
+  "repo": "d8b262849e28496f80a8acf7de9758cf3f3a4edf023343521e2e0ac50ec485212a473405570d6c58de6756ae098600d9c7138390faa1aaf6bf3609a8d4016448", 
+  "revision": "001"
+}

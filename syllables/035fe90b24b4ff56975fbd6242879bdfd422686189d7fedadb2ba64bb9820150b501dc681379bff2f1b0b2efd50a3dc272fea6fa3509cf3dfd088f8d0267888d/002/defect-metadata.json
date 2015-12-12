@@ -1,0 +1,12 @@
+{
+  "identicalDefects": [
+    {
+      "repo": "035fe90b24b4ff56975fbd6242879bdfd422686189d7fedadb2ba64bb9820150b501dc681379bff2f1b0b2efd50a3dc272fea6fa3509cf3dfd088f8d0267888d", 
+      "revision": "000"
+    }
+  ], 
+  "nbIdenticalDefects": 1, 
+  "program": "syllables", 
+  "repo": "035fe90b24b4ff56975fbd6242879bdfd422686189d7fedadb2ba64bb9820150b501dc681379bff2f1b0b2efd50a3dc272fea6fa3509cf3dfd088f8d0267888d", 
+  "revision": "002"
+}
