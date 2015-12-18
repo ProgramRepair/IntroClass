@@ -123,6 +123,10 @@ as a fitness evaluation script.
 The `genprog_tests.py` script is in the bin/ subdirectory of the benchmark
 package. It requires Python 3.3+, but nothing beyond that.
 
+** Warning **: Due to pointer manipulation, some programs output a memory address. 
+This results in non-determinism in the output due to Address Space Layout Randomization (ASLR).
+In order to have fully deterministic results, one has to disable ASLR. In Linux this is done by:
+(root) $ echo 0 > /proc/sys/kernel/randomize_va_space  
 
 # Extending
 
