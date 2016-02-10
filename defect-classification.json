@@ -450,7 +450,7 @@
     },
     {
         "bugclasses": [
-            "output mismatch"
+            "human fix - not a defect"
         ],
         "isReferenceDefect": false,
         "program": "syllables",
@@ -9555,7 +9555,7 @@
     },
     {
         "bugclasses": [
-            "output mismatch"
+            "human fix - not a defect"
         ],
         "isReferenceDefect": true,
         "program": "syllables",
@@ -12272,728 +12272,936 @@
         "revision": "0_f2a5e508f134c75db35c54474b6acb238796bd8a"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "98d873cde39437ae581e6b61ce30ca54634c9c1517b46a0f2774cb12db474b5a37759281b19283c60dbcfa44ac3e05d474a896310f64e8533603b1db73457494",
         "revision": "5_4ecbed452f52f39e4f09d18bea06eabfc22fc6e7"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "295afd8942816e14193424cec0b9802cea194a90b13253b85fd19b6caeada3830c60f1fb2fbbdc67a8f713be54b01a6ea116a7d206800df226d6285ece3a4736",
         "revision": "7_35838a82636d1841045c55e8254c96a54f7c35b9"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "e79f832ff314d3658c07e164d7866db707eafc8c97f209cf1d5cdb3b0cfc6738e7bd533c426a4887122d853ffa152b8861f30c41642a180152ba50c983de66dc",
         "revision": "4_aeda7137396515bf85bfc0f409171ff64fb5e4b3"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "833bd42c11f7407d63f604b8ba3b7927e22e04e91884c959f01083cda7d5019610705b94a89c09cd1caa3fd1d58eee24b48b85b523db0fa3fc302e7af2dff93d",
         "revision": "2_c7f5af397f819871e863390d39e5a11d4aeec66b"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "d767ad3b58111a0515c8a380d3bf376038066f24de65f5f88606f956c354f1750f5dc2e8fd647dfbbdae7a8dd70f3d8b3345ba7075534b8ed3aa344789cf73c2",
         "revision": "8_f89902c403349aca6a09af97bfc8c8eb08833af0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "5b504b3547416bfd54f138b3caa529ad72d157744b787e0e6f4745a2ff0fc5cc33bc87904b2d7cda9c7858087b2e04ece46d53fe9edd208f68d30a0ae70f363f",
         "revision": "2_61b8eab8a28eec3768cff6f0eed978ea8f214389"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "cd2d9b5b5cff96b07c5b22c0d139ffa2aa36b01823c9eb4db6eca19065a0ce2c4d2516bfcc2f1bc95daeae5b0bbd5e9c15b83feda776735e7bc3de6c49d25144",
         "revision": "9_25982e3ce54a45e8ac0a796d09a592ac719b3804"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "08c7ea4ac39aa6a5ab206393bb4412de9d2c365ecdda9c1b391be963c1811014ed23d2722d7433b8e8a95305eee314d39da4950f31e01f9147f90af91a5c433a",
         "revision": "15_938c5f1466231bbc19b8014f701d7431c554dea0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "d25c714b0bf59a479cfefe89ae1a98cf00937dccbe68f02fb160f1f561c967d01a00b4b0ef23c9eb1bd2a5667b48ed78e484802b21672ab946b354ff7a6027c7",
         "revision": "10_6f8c34adb150867424136bfe3f648192c92aa4a0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "a0e3fdae706d528dcf146cbad986ba9fd834440a7b500e32f04fad073e955a46e481c713ee118432f3fd5dfa1a63fc1caefd648a56a389e40e6362dfd51625b0",
         "revision": "6_064b2a64f34fba57d63024e59f33b90a9173a3fa"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "070455301c2e18c7c89b850c2e86c311ac5fd223c84e723591012e163d60f11f5fd030343a444049a44940f8607d36c463f30556bf1efa98916d7417c2b4393c",
         "revision": "4_46161b343efb4c09d0f820a0131a0bb96644439b"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "a3d1771781cb82fd72bf708693ced00fccbec480c21c0e0dca5a3843fff6dfb92d3e68fc6d992cc7b76987e706875c6570936cb127216a3a8b437feba7772d14",
         "revision": "3_1d75dfd2c85dfd98f942d5b8486616887cdc7993"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "f227ed285307815838e91975d2523300f5c71aa244356578858ac751ca351b55bc62f13559b03041faf2130fa8228dc0f8527f129e516404f37d4940707125b1",
         "revision": "3_8b64082148abf4a28928ad837c1c5a5260e16fad"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "dc11fbc9421c547961bfefcdc4044715a7131ceb484b10c8391745399298fcce81022dbb780a9efcac004486b7d989ef4bf0dfb5a4db7c599a8f9aa3393570ae",
         "revision": "2_fdbc46630ef9bffbaa3c5b1594bfaf6ee3c2d520"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "346b1d3c1cdc3032d07222a8a5e0027a2abf95bb1697b9d367d7cca7db1af769d8298e232c56471a122f05e87e79f4bd965855c9c0f8b173ebc0ef5d0abebc7b",
         "revision": "5_26d503b34d412b7c03580678f4b7424d226d7881"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "f5b56c79c624eac7c37c45c1540916bb9b5f5db93e2a426a282a5d0eacde86b4b1e5d1d119eeb06f0ead94d2e4f228dca8dde4ef511af4bc59a18d272d820a0e",
         "revision": "7_4ff6a016fb8b1f55509fd126a1539c25368f2bff"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "1b31fa5c50f7725ce468ebf24282f2d080a83aed87e4ee35522ae7710c8e0136bc263cc460b8ec7bf2c3519cb59af4a138e114d36541515b2609ab56ad2b8ee9",
         "revision": "4_ce94328e594c30b057ea7eb87e25c42e445e5931"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "d120480a6e4bd3c4aa2ca882cf7c0aaa499d56c9c236aba6bea7aa935843da56c1ce494b71da9e2c2fd6016b05c84164bbd70867801caf480497fa51a3b78cb1",
         "revision": "3_50d2dca791f256be08ad6c3eedbfc9ce052acea3"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "e9c74e27a17310a52842f7099c3e5c126298e1a08f2b841169cd5f155e6f2970d14d0314da1f6314ed970de1d20be306a60f0ce341d1c4d01300cc6efad7ab9b",
         "revision": "1_013f1f47196df01766ee326ccf588e41d93278b0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
         "revision": "8_8fd746243afd352300ab3695bc5e5d5ea7f92b61"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "d43d32076778e9cb3a2aa237e806bc00b0eaffde5b75563c9321019a817607f8303e6b982bf49358787264ac38e22026f27bde7e67a87ba43b973c29442f9e93",
         "revision": "1_60ddf47d490988e8b405c4367112bc808ef6c382"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "48b82975576f07f162163145b334648a73321d003a0a8cd4577172e48ce4836e63953dffd4460a9a7aadc511a695ff93de0ce2baf953e4b78b747440caa736a6",
         "revision": "1_b9e0e54aabf50101573b08dd39e89aa87031dbaa"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "90a14c1ac8f56395389fade6f67872a9684e61f83099e634ac675eae04f391f3cc2b6f6ebe966f2488ce7e00a2cabb218f3b1372d4161b3c05d134b1b7f296d2",
         "revision": "5_6b4036df723894a129831c0f8a6e24300db6491a"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "89b1a701f92f7e190fd4caf2ad32365f2c9261790b9a33967efd0bfb4d047c721db673225a01819900d542401a0b95d29db7ff0d8548087faabd4230f896474f",
         "revision": "4_39be1f3cccbdd8dbb22c0cbf8baaf57428be0bd0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "c9d718f379a877bd04e4544ee830a1c4c256bb4f104f214afd1ccaf81e7b25dea689895678bb1e6f817d8b0939eb175f8e847130f30a9a22e980d38125933516",
         "revision": "2_dc0461511598aa7c9f175958943a9ed71b5737ac"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "1c2bb3a40a82cba97b2937bc6825903a28ecfe91f993fc177a0f2ae003bcc7b1073eb49e35d3f0f69d6b612e8347e9c1b93306bf25a7e5390098c1a06845baac",
         "revision": "9_31f26828b63eb099fa940e839379f5c76a9668cc"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "9013bd3be8c00de447e6ed49a0fe0fab037251c28e26954bf780f2f3b929a9e7ce9da037811c76028e4069d3857410f82b8f399c7fa4386ea8f97f80aab1f191",
         "revision": "4_d0ff37c05e9679e1b6775977eecad5cbf4d3ac63"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "bfad6d21d636def8e9e72910c3eb0815f5747669e3a60fb10c6f7f421082d18e548dcfc5d4717bb6da075c36f067b37858d11528ce796b3226ae33719c5007ce",
         "revision": "6_7d204268b83e0b5e26058dd9780c1a2c74990550"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "6e464f2b5ba1d5ad3d4fc366e7d7712b424aabd8b41ca36257115a16416d202feb27397a413d04944c9ac76976fa8ff8ae646144855e08791ebf9593d1caaaca",
         "revision": "7_bac6cb44ec1fb665d2bcc6b4a1dc66437d97596c"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "f94e261284a925b931cca5a89f73ae19039f2699f0416d5e4e7e673bb7a2c746760ae35adf47cfa94ad5af1623209b17a0e53c1300d3771c5b0b0cada1561d3f",
         "revision": "5_bad529e5292636dab2550eb4b6a35eb87accda0d"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "d8b262849e28496f80a8acf7de9758cf3f3a4edf023343521e2e0ac50ec485212a473405570d6c58de6756ae098600d9c7138390faa1aaf6bf3609a8d4016448",
         "revision": "1_440944105917fc956b18bc53a66e79b8ea3e4da1"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "digits",
         "repo": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae",
         "revision": "7_375a160bc6200af6bc88a6f79731e57d2d3f4cb9"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "bfad6d21d636def8e9e72910c3eb0815f5747669e3a60fb10c6f7f421082d18e548dcfc5d4717bb6da075c36f067b37858d11528ce796b3226ae33719c5007ce",
         "revision": "11_cd8aa09e5539e83992bda9155a589c3682d67a5a"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "9083480332b4a5e4274f3bf5ef8bd5d1bd75048c0c066e574c27a2de6d919d658efc519e8b6a230a074eb5f2957d5768f4dc981a8e926c3a72993bc448a017f7",
         "revision": "18_5ef68ab589378ea86d0d5d7bf8c5bb5201f05752"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "97f6b15278788d90f6a0159ac65668f63f182fadf165e78bfecd7750de89f8611759f8d8206b3505407f7de14d124db7b0309a53e222c538c4dedadc6fa24fe6",
         "revision": "8_e2e4fcc0d2cc13df95c436f38b0b199a669168fa"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "48b82975576f07f162163145b334648a73321d003a0a8cd4577172e48ce4836e63953dffd4460a9a7aadc511a695ff93de0ce2baf953e4b78b747440caa736a6",
         "revision": "1_604f9a5755393b893e95bf0515a23bda0aabcd0c"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "f5b56c79c624eac7c37c45c1540916bb9b5f5db93e2a426a282a5d0eacde86b4b1e5d1d119eeb06f0ead94d2e4f228dca8dde4ef511af4bc59a18d272d820a0e",
         "revision": "13_ea2495e5cb39bffa6e5c6532d2ef6384b69522fa"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "5b504b3547416bfd54f138b3caa529ad72d157744b787e0e6f4745a2ff0fc5cc33bc87904b2d7cda9c7858087b2e04ece46d53fe9edd208f68d30a0ae70f363f",
         "revision": "2_794ba23f31403dff91a4e785156fd323ba9b31a5"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "dc11fbc9421c547961bfefcdc4044715a7131ceb484b10c8391745399298fcce81022dbb780a9efcac004486b7d989ef4bf0dfb5a4db7c599a8f9aa3393570ae",
         "revision": "4_4b0cb6c3892005ee4ef0ca54a39eeba99427181b"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "36d8008b13f6475ca8fa4553fea10042b0a6c623665065672051445c3464d61b29b47cb66321844a0264505a0f5ccf5aa6de072aa266b5a8b0cf13198380a389",
         "revision": "1_0e36c9a8962a411642376e4599edf35b0e974c7c"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "98d873cde39437ae581e6b61ce30ca54634c9c1517b46a0f2774cb12db474b5a37759281b19283c60dbcfa44ac3e05d474a896310f64e8533603b1db73457494",
         "revision": "8_e3f2865c89e405ba99bd56f5f9a35552b9a127b3"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "3b2376ab97bb5d1a5dbbf2b45cf062db320757549c761936d19df05e856de894e45695014cd8063cdc22148b13fa1803b3c9e77356931d66f4fbec0efacf7829",
         "revision": "16_e2bbf98c3729eb8ff7e869a2ae20d525313083f0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "531924c0915a9fa7b02951d5de7cc2b0da19d57a6be3b667c064bec1d5db14b955c30483b24273dd8d11a609a81726c4e6ab964009eb716f8b60adcf5f6fd7e8",
         "revision": "2_dd1bcb7a4d33e360afd3ca4ca46f2eeeabb7b6c9"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "070455301c2e18c7c89b850c2e86c311ac5fd223c84e723591012e163d60f11f5fd030343a444049a44940f8607d36c463f30556bf1efa98916d7417c2b4393c",
         "revision": "10_aa0c64178d4b547f8706f8ea066d98f6b0cc2108"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "295afd8942816e14193424cec0b9802cea194a90b13253b85fd19b6caeada3830c60f1fb2fbbdc67a8f713be54b01a6ea116a7d206800df226d6285ece3a4736",
         "revision": "14_aaf83c44f0d5e566a41b49373d885de4193514dc"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "fe9d5fb933c758c2cbbd859e3ecbd2d2eaecc2843b57cfd97da99af24de59f189a144d13ce81ec585d7c2f7367f70c0fb2aec8269eed1fd8380def614817ef7c",
         "revision": "8_c1c21c46ab186f6154da364eae0ab4483362ce65"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "489253253c866aa61b6b0d95c6072d3912f6b78dfbc01bdb2fbb663aefe33d6d353b1a61bb5fc567c9d6c334994111816edd3d43db47e4ea4a84953198736ff7",
         "revision": "12_f96d782747915fa129cc68befea222d35b812904"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
         "revision": "13_7c4a041a6486535303d32b78f24cf54792637784"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "68ea5d3466c7a9fb4a9219015d32f37de45f50df920793d79bc6028242a1913e9fa55a6da8262f1bc1f64b15e481dcd74d30dc36a54704a8abeac07d06f0f591",
         "revision": "1_61c2dfa5177f080f081f2ffecf99a98b81034c4b"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "833bd42c11f7407d63f604b8ba3b7927e22e04e91884c959f01083cda7d5019610705b94a89c09cd1caa3fd1d58eee24b48b85b523db0fa3fc302e7af2dff93d",
         "revision": "5_b0d54afe47ac208f01eb85a923ce56fd67c67b3c"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "75c98d3d90ca9a022bbf45421aa04a07f37da8a126811259bc4873e9458baab0a4863fa6664e5735c60172b34a16ed5acef892635f4f16e6d5737fb3685d0356",
         "revision": "9_77a27d92a6681acf0a4cde637b262e57a65ab0f8"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "b1924d63a2e25b7c8d9a794093c4ae97fdceec9e0ea46b6a4b02d9a18b9ba9cecf07cb0c42c264a0947aec22b0bacff788a547a8250c2265f601581ab545bf82",
         "revision": "4_02ea049acbe7339c424bf431e0931d25d6d614fc"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "d8b262849e28496f80a8acf7de9758cf3f3a4edf023343521e2e0ac50ec485212a473405570d6c58de6756ae098600d9c7138390faa1aaf6bf3609a8d4016448",
         "revision": "6_3df9a458eca216251e3ae009222b5f214e7c8bfe"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "ee1f20ccded21df47f14019584a29968013d1e66c8df14c1564aff0d69f463c1897e93b7881fa6318cbf475b51e0cdd7523d748525fb5d64d376b88614d3fc92",
         "revision": "8_f1d6b2efa82338451e8681270161932430d4b996"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "387be36eafae90e7b26450a56b535f6779e881ed8916bbab08bceeb78d8ea474757d46977e2943e6b07dfe150757f53679b911e113ef68a13cd1e75b3daf18d7",
         "revision": "1_defefbe4ec9787cb60c38ec5c2a585de473c9301"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "b6fd408d589fd1cce4003e2cf601a028e3c01042c8a274ddc384a1524cab2014154932e9cb48312af6af394ee6bee85603cab8dad3c9617a49b9d14dc482b578",
         "revision": "2_758ac932ad4ab657e60dacf903f475b2174a7f18"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "92b7dd1241c2688476a763b691eadd80a1aa750e7c26955f8c3a3d2b11233c05cd51469a029d22c1ba0b6b4203484f2d056d1bdf5cef075f583fbca4292f1a40",
         "revision": "7_6eed18e7a1acf62f877c614100f083c1e86a996e"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "e23b96b6bab26bd14316cefafcbaa16dd8eafcfb97a7159a7772f3c8bb3e78fb353dea728f6b4df6528286af5f0b85fd134c79886c9c2a352fe80d8204c69111",
         "revision": "10_1d9bdd37572b3579db32e00b70ac7cff37627b6a"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "89b1a701f92f7e190fd4caf2ad32365f2c9261790b9a33967efd0bfb4d047c721db673225a01819900d542401a0b95d29db7ff0d8548087faabd4230f896474f",
         "revision": "11_9bf31978a17b40cf30b8f6743e5fa64146ceb7db"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "769cd811312cbbb82c87033a78ac9584ad282550bcb9cc3ae8c4e3da44c288c1a5b3954e01998c3c0654ee6774ceab66e9fe5b135750905c917d2b0bb5fab98b",
         "revision": "13_656bc17a9f654f3bc15e093b9817a2b12ece4a51"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "0cea42f9680f35f5a84c724c396d4d588b65c303453f9585562f2e2af8db74f5096a83a70b17c5126538222b111a0795a34e9fb6db95d62d771d01592abe3ff6",
         "revision": "8_2133c7bcc36a1dfeff6cfe54c9ad6361061cd3c6"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "cb243bebea400595cc274d1246f3307c507ba6a0e891f6e318cde2b80a72de40dab19eb7f76d3b6573a08e446bce6fb4435cdb016ae6489973b855a9bddd3b11",
         "revision": "2_ffbf869fd07f2bbb611c7edf888cf24167391d2e"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "1c2bb3a40a82cba97b2937bc6825903a28ecfe91f993fc177a0f2ae003bcc7b1073eb49e35d3f0f69d6b612e8347e9c1b93306bf25a7e5390098c1a06845baac",
         "revision": "16_eaf9de5da1ab979484c18078e476ae68b3c4ccca"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "ca94e3756cbf8d1490bad660c06307f5d678e3675bbea85359523809a4f06b370066767ea2d2d76d270e4712b464924f12e19dbf1a12d28b75d367ceb202dbb9",
         "revision": "5_ac86fff5f543659bd46a95233c7078bec39637c2"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "6e464f2b5ba1d5ad3d4fc366e7d7712b424aabd8b41ca36257115a16416d202feb27397a413d04944c9ac76976fa8ff8ae646144855e08791ebf9593d1caaaca",
         "revision": "4_0944a8991490d64093634b0c810907f5cbc8fe3e"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "cd2d9b5b5cff96b07c5b22c0d139ffa2aa36b01823c9eb4db6eca19065a0ce2c4d2516bfcc2f1bc95daeae5b0bbd5e9c15b83feda776735e7bc3de6c49d25144",
         "revision": "21_ecaa7825aef6efe3653b8edd174113e643b64664"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "8ce6345ea4e815b04769b3920f04becec20cf8051565f087aa5e03c5fdca4752a56cbec48207b74f69db55f0e9e0c3c28809cc228c8d6637a7a9c732977640b9",
         "revision": "2_9d99917dced2001d9e5d03968a55288fb977b238"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "d009aa71ece41454c68d8038b5462d8eea8feb291bce1d53ee149f8477b5eab62ee28c7f690bf14dc6ce1d70c8943f7f3b3e4300965cb24da4cd2d2807dab19a",
         "revision": "6_f4025d6487c3789faf23d72697d1723cfd61c438"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae",
         "revision": "11_98f8fd9a2070b66d2389b7df02615cb81c049cff"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "317aa7055d3b7337ab43b73863692d1288ca246c473f9fd176bc737a7c3e1e08c37a15603cfb7bfc86f7bc2dcc239967b79b605aec11f86ae3ab90dc140b540f",
         "revision": "7_3b341f03ca473a5026258c9af7017d6c168ca0b2"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "30074a0e036669b5681720e6481cc101877d52ee589bab434417ece22b4133ed584c6a84f80047c10ab47aa73a7807720b5375983e8b489e8e69978e5e0e8b71",
         "revision": "15_12c75d2dbc81beabc5495e199204ce0c30812bde"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "grade",
         "repo": "9c9308d4cdf5bc5dfe6efc2b1a9c9bc9a44fbff73c5367c97e3be37861bbb3ba9ac7ad3ddec74dc66e34fe8f0804e46186819b4e90e8f9a59d1b82d9cf0a6218",
         "revision": "13_14e0c3b3e2cf70b31507edf7fc42037a7ca2c2da"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "3b2376ab97bb5d1a5dbbf2b45cf062db320757549c761936d19df05e856de894e45695014cd8063cdc22148b13fa1803b3c9e77356931d66f4fbec0efacf7829",
         "revision": "7_b1418e58bb553c88d85352124acf97a34a317421"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "ca94e3756cbf8d1490bad660c06307f5d678e3675bbea85359523809a4f06b370066767ea2d2d76d270e4712b464924f12e19dbf1a12d28b75d367ceb202dbb9",
         "revision": "7_a19e1d00af00e47930b888d0a1e5152a97b67731"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "e23b96b6bab26bd14316cefafcbaa16dd8eafcfb97a7159a7772f3c8bb3e78fb353dea728f6b4df6528286af5f0b85fd134c79886c9c2a352fe80d8204c69111",
         "revision": "7_6b618fb04a252d1475662d171610ffe66568d0cd"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "b6fd408d589fd1cce4003e2cf601a028e3c01042c8a274ddc384a1524cab2014154932e9cb48312af6af394ee6bee85603cab8dad3c9617a49b9d14dc482b578",
         "revision": "3_7e2f8eb8a1cc4e79afb85a26afeb2293194684d0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "a0e3fdae706d528dcf146cbad986ba9fd834440a7b500e32f04fad073e955a46e481c713ee118432f3fd5dfa1a63fc1caefd648a56a389e40e6362dfd51625b0",
         "revision": "6_064b2a64f34fba57d63024e59f33b90a9173a3fa"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "97f6b15278788d90f6a0159ac65668f63f182fadf165e78bfecd7750de89f8611759f8d8206b3505407f7de14d124db7b0309a53e222c538c4dedadc6fa24fe6",
         "revision": "10_782bd641828df1a87680fbecfc2b7ce961fba23b"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "d43d32076778e9cb3a2aa237e806bc00b0eaffde5b75563c9321019a817607f8303e6b982bf49358787264ac38e22026f27bde7e67a87ba43b973c29442f9e93",
         "revision": "1_60ddf47d490988e8b405c4367112bc808ef6c382"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "08c7ea4ac39aa6a5ab206393bb4412de9d2c365ecdda9c1b391be963c1811014ed23d2722d7433b8e8a95305eee314d39da4950f31e01f9147f90af91a5c433a",
         "revision": "15_938c5f1466231bbc19b8014f701d7431c554dea0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "36d8008b13f6475ca8fa4553fea10042b0a6c623665065672051445c3464d61b29b47cb66321844a0264505a0f5ccf5aa6de072aa266b5a8b0cf13198380a389",
         "revision": "8_9a1232b19c1e09b699a73362477f33eb1ed4693c"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "d5cc7acaad4f01271abd8e5e7aecd52ad0fd82b2ea0c14dec8df934c2339b522dd2ed9549605a6405048bcbd89256e7ec818001899fecaa1ec147265783608f9",
         "revision": "4_bbd38a50d0082db74d6e763dda548c4817184490"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "75c98d3d90ca9a022bbf45421aa04a07f37da8a126811259bc4873e9458baab0a4863fa6664e5735c60172b34a16ed5acef892635f4f16e6d5737fb3685d0356",
         "revision": "5_674f63a113f513db8d8a5041ad1e2c0a40d1e630"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "3cf6d33ab0357953aa5826c67dc74c4aa483f16ef04c973a68d58cda6f19ea712954b24f366f880b9c18b628c6605eabc4d3e80dc4aa120fac80fe680e2e708f",
         "revision": "3_17ac467c7efd536cd4e96ecf59ceb3236055ca9b"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "cb243bebea400595cc274d1246f3307c507ba6a0e891f6e318cde2b80a72de40dab19eb7f76d3b6573a08e446bce6fb4435cdb016ae6489973b855a9bddd3b11",
         "revision": "6_cba1e485756279a57126613bbad53e9acfb098d1"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "bfad6d21d636def8e9e72910c3eb0815f5747669e3a60fb10c6f7f421082d18e548dcfc5d4717bb6da075c36f067b37858d11528ce796b3226ae33719c5007ce",
         "revision": "6_7d204268b83e0b5e26058dd9780c1a2c74990550"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "e9c74e27a17310a52842f7099c3e5c126298e1a08f2b841169cd5f155e6f2970d14d0314da1f6314ed970de1d20be306a60f0ce341d1c4d01300cc6efad7ab9b",
         "revision": "1_013f1f47196df01766ee326ccf588e41d93278b0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "2c1556672751734adf9a561fbf88767c32224fca14a81e9d9c719f18d0b21765038acc16ecd8377f74d4f43e8c844538161d869605e3516cf797d0a6a59f1f8e",
         "revision": "5_97f8c35cb3a3874ef545531bc5c88bd21f734c8b"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "checksum",
         "repo": "98d873cde39437ae581e6b61ce30ca54634c9c1517b46a0f2774cb12db474b5a37759281b19283c60dbcfa44ac3e05d474a896310f64e8533603b1db73457494",
         "revision": "5_4ecbed452f52f39e4f09d18bea06eabfc22fc6e7"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "c716ee619761838749589cbd08d5fd56830bff349039f8587e988a5b0cd6310e04844d8e0ee98c5ffee3275aa227bd2c92fcde0993637fcf3bfbd41a37378833",
         "revision": "7_4cf803c02ac3720fd970fc527c36eebcdde543e7"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "d2b889e1ac42bc85f9df5c45c10708f46784be93d69acd1415cfd4d028cb50b19f50c374a9498c8e8b909173053a100e20c279ddb06c6359a06a920ead3e8080",
         "revision": "1_09823c4598258639ac4ad9e2189b5d453beba927"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "317aa7055d3b7337ab43b73863692d1288ca246c473f9fd176bc737a7c3e1e08c37a15603cfb7bfc86f7bc2dcc239967b79b605aec11f86ae3ab90dc140b540f",
         "revision": "7_3b341f03ca473a5026258c9af7017d6c168ca0b2"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "89b1a701f92f7e190fd4caf2ad32365f2c9261790b9a33967efd0bfb4d047c721db673225a01819900d542401a0b95d29db7ff0d8548087faabd4230f896474f",
         "revision": "11_9bf31978a17b40cf30b8f6743e5fa64146ceb7db"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "d25c714b0bf59a479cfefe89ae1a98cf00937dccbe68f02fb160f1f561c967d01a00b4b0ef23c9eb1bd2a5667b48ed78e484802b21672ab946b354ff7a6027c7",
         "revision": "7_181f8018767c8d78245c919818465aa5ecd644ad"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "d4aae191327d63b5ebc388f4bdbdaaf670e3332ea6afc5be3f04cca42334a4b6fe038630379bb774135a21197172563cf1b684c6ae927cce50b06340048b132a",
         "revision": "2_f578be820a9777fe3a44286e836553b727a956ac"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "97f6b15278788d90f6a0159ac65668f63f182fadf165e78bfecd7750de89f8611759f8d8206b3505407f7de14d124db7b0309a53e222c538c4dedadc6fa24fe6",
         "revision": "8_e2e4fcc0d2cc13df95c436f38b0b199a669168fa"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "d120480a6e4bd3c4aa2ca882cf7c0aaa499d56c9c236aba6bea7aa935843da56c1ce494b71da9e2c2fd6016b05c84164bbd70867801caf480497fa51a3b78cb1",
         "revision": "1_94e54ebb0ab4afdb92fa3acfce881af49d1fe1f8"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "9083480332b4a5e4274f3bf5ef8bd5d1bd75048c0c066e574c27a2de6d919d658efc519e8b6a230a074eb5f2957d5768f4dc981a8e926c3a72993bc448a017f7",
         "revision": "18_5ef68ab589378ea86d0d5d7bf8c5bb5201f05752"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "1c2bb3a40a82cba97b2937bc6825903a28ecfe91f993fc177a0f2ae003bcc7b1073eb49e35d3f0f69d6b612e8347e9c1b93306bf25a7e5390098c1a06845baac",
         "revision": "16_eaf9de5da1ab979484c18078e476ae68b3c4ccca"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "fe9d5fb933c758c2cbbd859e3ecbd2d2eaecc2843b57cfd97da99af24de59f189a144d13ce81ec585d7c2f7367f70c0fb2aec8269eed1fd8380def614817ef7c",
         "revision": "8_c1c21c46ab186f6154da364eae0ab4483362ce65"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "af81ffd4bc47e4f84cbf87051d82d15af14833eaba6c57ae82fc503a67eb939f3e6552182124605c38a77a6774f41fac2cc95082320ba5e29d303277c098c4ae",
         "revision": "11_98f8fd9a2070b66d2389b7df02615cb81c049cff"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "b6fd408d589fd1cce4003e2cf601a028e3c01042c8a274ddc384a1524cab2014154932e9cb48312af6af394ee6bee85603cab8dad3c9617a49b9d14dc482b578",
         "revision": "2_758ac932ad4ab657e60dacf903f475b2174a7f18"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "9c9308d4cdf5bc5dfe6efc2b1a9c9bc9a44fbff73c5367c97e3be37861bbb3ba9ac7ad3ddec74dc66e34fe8f0804e46186819b4e90e8f9a59d1b82d9cf0a6218",
         "revision": "13_14e0c3b3e2cf70b31507edf7fc42037a7ca2c2da"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "fcf701e8bed9c75a4cc52a990a577eb0204d7aadf138a4cad08726a847d66e77126f95f06f839ec9224b7e8a887b873fe0d4b6f4311b4e8bd2a36e5028d1feca",
@@ -13014,105 +13222,135 @@
         "revision": "10_5f30ce7192cb5970a6d822cda797b69c436b9174"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "d009aa71ece41454c68d8038b5462d8eea8feb291bce1d53ee149f8477b5eab62ee28c7f690bf14dc6ce1d70c8943f7f3b3e4300965cb24da4cd2d2807dab19a",
         "revision": "6_f4025d6487c3789faf23d72697d1723cfd61c438"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "070455301c2e18c7c89b850c2e86c311ac5fd223c84e723591012e163d60f11f5fd030343a444049a44940f8607d36c463f30556bf1efa98916d7417c2b4393c",
         "revision": "10_aa0c64178d4b547f8706f8ea066d98f6b0cc2108"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "95362737dcd262ddd67b0fe1381c25f1e6b885860b4e51efb6f57223dceb77b4c6c7d855e3fe891c10cd51b48c9b052cf2c74f181a28d3020d77a4a2d6e4db18",
         "revision": "18_5be8d467546551621428c0d5dc07d04ec117ae52"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "48b82975576f07f162163145b334648a73321d003a0a8cd4577172e48ce4836e63953dffd4460a9a7aadc511a695ff93de0ce2baf953e4b78b747440caa736a6",
         "revision": "1_604f9a5755393b893e95bf0515a23bda0aabcd0c"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "30074a0e036669b5681720e6481cc101877d52ee589bab434417ece22b4133ed584c6a84f80047c10ab47aa73a7807720b5375983e8b489e8e69978e5e0e8b71",
         "revision": "15_12c75d2dbc81beabc5495e199204ce0c30812bde"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "1b31fa5c50f7725ce468ebf24282f2d080a83aed87e4ee35522ae7710c8e0136bc263cc460b8ec7bf2c3519cb59af4a138e114d36541515b2609ab56ad2b8ee9",
         "revision": "3_5b0dec1955d9b7b1b00a4c260f8a9e05b1eb24b8"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "e9c6206d3a4862876b0dead881ac55078f11e291f60215ab028651f06fcbee2a591a31a7727037774542df4fe051a89460d85f6067a0b9729ae86e4afe1e6e92",
         "revision": "3_1f2346b4e87dbf8f0f94b1a0c32125e3660373d0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "68eb0bb00bcd06020ba4e5c5afbce504f5e7af9618c274197da7d50f668649a59f3eb961a718f5f67cc8731f9f5e2df46e511d083b2b5e785e9377c8f94e6ea5",
         "revision": "11_d55fdb4a3cf6df9fb57b5f3c099d59a985b32a42"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "3b2376ab97bb5d1a5dbbf2b45cf062db320757549c761936d19df05e856de894e45695014cd8063cdc22148b13fa1803b3c9e77356931d66f4fbec0efacf7829",
         "revision": "16_e2bbf98c3729eb8ff7e869a2ae20d525313083f0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "3cf6d33ab0357953aa5826c67dc74c4aa483f16ef04c973a68d58cda6f19ea712954b24f366f880b9c18b628c6605eabc4d3e80dc4aa120fac80fe680e2e708f",
         "revision": "13_831220a6618577ea91a5a34283dbd1160a88f942"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "98d873cde39437ae581e6b61ce30ca54634c9c1517b46a0f2774cb12db474b5a37759281b19283c60dbcfa44ac3e05d474a896310f64e8533603b1db73457494",
         "revision": "8_e3f2865c89e405ba99bd56f5f9a35552b9a127b3"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "fe9d5fb933c758c2cbbd859e3ecbd2d2eaecc2843b57cfd97da99af24de59f189a144d13ce81ec585d7c2f7367f70c0fb2aec8269eed1fd8380def614817ef7c",
         "revision": "6_da455c9cd6d08bbaaed3caab546e5f86c308511d"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "c868b30a4adebf62b0ed20170a14ee9e5f8bc62d827e9712294ffa4a10ab8423e3d903c29e2392c83963972019a470e667c1987e2547294d1e2d1df1db832912",
         "revision": "3_2a60bae902971534565fdcdf8b8c61b309e5a288"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "b1924d63a2e25b7c8d9a794093c4ae97fdceec9e0ea46b6a4b02d9a18b9ba9cecf07cb0c42c264a0947aec22b0bacff788a547a8250c2265f601581ab545bf82",
         "revision": "7_c7f3191a638f51e41aea5f1ed6ca9f63646a8aec"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "cb243bebea400595cc274d1246f3307c507ba6a0e891f6e318cde2b80a72de40dab19eb7f76d3b6573a08e446bce6fb4435cdb016ae6489973b855a9bddd3b11",
@@ -13133,7 +13371,9 @@
         "revision": "4_6bd0a9b2ee0f536d0784e459ce978fb49cf6a287"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "95362737dcd262ddd67b0fe1381c25f1e6b885860b4e51efb6f57223dceb77b4c6c7d855e3fe891c10cd51b48c9b052cf2c74f181a28d3020d77a4a2d6e4db18",
@@ -13154,35 +13394,45 @@
         "revision": "2_01eddd6c0b0537f18719302d69ac955aac680ac2"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "5a5683598d8e2140d344e9ac96a8d6105b8e6e55831ab874cd960dfe789c3b242d57aad028e2b28331e4d61019d6e1b1d1cad97316bcb0378df48de738147b7d",
         "revision": "4_748499f27776a7054d73049847cfa822c0be156a"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "346b1d3c1cdc3032d07222a8a5e0027a2abf95bb1697b9d367d7cca7db1af769d8298e232c56471a122f05e87e79f4bd965855c9c0f8b173ebc0ef5d0abebc7b",
         "revision": "15_6f60b9ca8578fa3eae4f95d94b473ba0ccb21314"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "6aaeaf2ffb623b5736c0c0b9e8a1a3b080e8aef14d963d899eb3e4073245ad1171e26fb2a64fb88db6e40aa59e894a55eac832e38d444755cb3b6ad10ba74c62",
         "revision": "2_bf338827c42056b7f6fe239401c829e73415e7f1"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "818f8cf4e2e713753d02db9ee70a099b71f2a5a6bdc904191cf9ba68cfa5f64328464dccdd9b02fe0822e14a403dc196fe88b9964969409e60c93a776186a86a",
         "revision": "5_240e73de0ec79730f6f33896858b1a9c852c93b8"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "769cd811312cbbb82c87033a78ac9584ad282550bcb9cc3ae8c4e3da44c288c1a5b3954e01998c3c0654ee6774ceab66e9fe5b135750905c917d2b0bb5fab98b",
@@ -13210,14 +13460,18 @@
         "revision": "0_c10854c734f548e698294ad6d638b1aab40cad05"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "f8d57deac89e46f99354a70e8f6bc830e0bded0c297d7a0765348de79d6071cb076d4e8f2cd60cff584cb220049d6065827a29904a7e1f9144f510f7773e6d0e",
         "revision": "3_24a4e28edc17e0d8e335c1def49a9b8ba3797a9e"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "97f6b15278788d90f6a0159ac65668f63f182fadf165e78bfecd7750de89f8611759f8d8206b3505407f7de14d124db7b0309a53e222c538c4dedadc6fa24fe6",
@@ -13266,7 +13520,9 @@
         "revision": "0_71ad83b7777ea517ca3ea5d3b482684792ef8ab5"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "e9c74e27a17310a52842f7099c3e5c126298e1a08f2b841169cd5f155e6f2970d14d0314da1f6314ed970de1d20be306a60f0ce341d1c4d01300cc6efad7ab9b",
@@ -13287,7 +13543,9 @@
         "revision": "0_5241c1ad81944a59bb2efd68b31c97a39ef7d10b"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "ca5057661022789c0b40bc1574ab8b0826b3d22f70de1a10b2d2122137774c6aec73fe789a94b2362628481da623120033956bd376b41b825a72dbd8b50aff2f",
@@ -13308,7 +13566,9 @@
         "revision": "4_6c6e7d2dac8786efcbb88f1ea4f1c3e428295a6d"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "38eb99ca5f527278e523bc9e14ee447c514f13c29f3b7f61282f1698d96b6f45a55f77275f23f8d1e6b23527e590dd9c11b290a9c04121720fb31a1405e19022",
@@ -13329,7 +13589,9 @@
         "revision": "0_8641aab62ccd9671168b7edc41c7f40ab4c511f6"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "bfad6d21d636def8e9e72910c3eb0815f5747669e3a60fb10c6f7f421082d18e548dcfc5d4717bb6da075c36f067b37858d11528ce796b3226ae33719c5007ce",
@@ -13350,7 +13612,9 @@
         "revision": "2_811af03f0133e7aa314ac35fa93b659ab877541c"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "cd2d9b5b5cff96b07c5b22c0d139ffa2aa36b01823c9eb4db6eca19065a0ce2c4d2516bfcc2f1bc95daeae5b0bbd5e9c15b83feda776735e7bc3de6c49d25144",
@@ -13392,7 +13656,9 @@
         "revision": "2_737227720ffe0760ef54decece6745f3cb1ad402"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "human fix - not a defect"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "b6fd408d589fd1cce4003e2cf601a028e3c01042c8a274ddc384a1524cab2014154932e9cb48312af6af394ee6bee85603cab8dad3c9617a49b9d14dc482b578",
