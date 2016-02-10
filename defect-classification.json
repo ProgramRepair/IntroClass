@@ -13208,14 +13208,18 @@
         "revision": "3_0b34fa613c46cb28faaee0ab63714725b040e4ad"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "median",
         "repo": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
         "revision": "10_5f30ce7192cb5970a6d822cda797b69c436b9174"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": false,
         "program": "median",
         "repo": "0cdfa335eea3c612e6fa3ad261276b0c3ebbc6ff0ff13c20bdc249bad29a8037ca6dc887dd28558964e1e1a24f47c4cffc05adba525285dc8b93660cdf9b8b7c",
@@ -13357,14 +13361,18 @@
         "revision": "1_9e69116826a9ca065c830a14e474c17fe87dbefa"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "f94e261284a925b931cca5a89f73ae19039f2699f0416d5e4e7e673bb7a2c746760ae35adf47cfa94ad5af1623209b17a0e53c1300d3771c5b0b0cada1561d3f",
         "revision": "4_6bd0a9b2ee0f536d0784e459ce978fb49cf6a287"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": false,
         "program": "smallest",
         "repo": "f94e261284a925b931cca5a89f73ae19039f2699f0416d5e4e7e673bb7a2c746760ae35adf47cfa94ad5af1623209b17a0e53c1300d3771c5b0b0cada1561d3f",
@@ -13380,14 +13388,18 @@
         "revision": "11_2f71c0613e6e5890a59de0a68438cbf49c3ae371"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "smallest",
         "repo": "d9e7eab5f82342d78fb20833701c4e9f900e8fcb737038d3a2ad18f664532af4d6332b7d14841c9ac773c52f6590b754f76df1f430a35bc8ca4799a767cdec6d",
         "revision": "2_01eddd6c0b0537f18719302d69ac955aac680ac2"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": false,
         "program": "smallest",
         "repo": "d9e7eab5f82342d78fb20833701c4e9f900e8fcb737038d3a2ad18f664532af4d6332b7d14841c9ac773c52f6590b754f76df1f430a35bc8ca4799a767cdec6d",
@@ -13439,21 +13451,27 @@
         "revision": "11_f1f87e10ae5af9a6c976e84372f56c4f6a54630e"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "c9d718f379a877bd04e4544ee830a1c4c256bb4f104f214afd1ccaf81e7b25dea689895678bb1e6f817d8b0939eb175f8e847130f30a9a22e980d38125933516",
         "revision": "2_18762c59bc74836f1a9a7c9eef624e34530414ca"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "dedc2a7c919835ade6d92729cfb18fc71addf6dcdf36ce26ca8b1e3d3aea81bad974c61b96fd71537e95a6aac4582d5b08f9fd8057ce40fb18fb5df37d86b70d",
         "revision": "0_c10854c734f548e698294ad6d638b1aab40cad05"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": false,
         "program": "syllables",
         "repo": "dedc2a7c919835ade6d92729cfb18fc71addf6dcdf36ce26ca8b1e3d3aea81bad974c61b96fd71537e95a6aac4582d5b08f9fd8057ce40fb18fb5df37d86b70d",
@@ -13478,42 +13496,54 @@
         "revision": "1_5df103588036f8207131419813d8147f9dda6547"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "824eb077ad12f1d09c072e46b02fd0a9a605d9c527b8c9de6ef22b674982933a26784bd60162bd814b2d453c4196c41e9451019dcd671946a32f44a733c75978",
         "revision": "1_286f91e9c47d559b8db5f69bd87783486a5721cf"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "48b82975576f07f162163145b334648a73321d003a0a8cd4577172e48ce4836e63953dffd4460a9a7aadc511a695ff93de0ce2baf953e4b78b747440caa736a6",
         "revision": "0_b442d3e71d074f5921aff4802dce9762f45a1baf"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": false,
         "program": "syllables",
         "repo": "48b82975576f07f162163145b334648a73321d003a0a8cd4577172e48ce4836e63953dffd4460a9a7aadc511a695ff93de0ce2baf953e4b78b747440caa736a6",
         "revision": "0_b442d3e71d074f5921aff4802dce9762f45a1baf"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "dc11fbc9421c547961bfefcdc4044715a7131ceb484b10c8391745399298fcce81022dbb780a9efcac004486b7d989ef4bf0dfb5a4db7c599a8f9aa3393570ae",
         "revision": "0_08cb6031d03df4a2841da3aa51ae3bedb66609c1"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": false,
         "program": "syllables",
         "repo": "dc11fbc9421c547961bfefcdc4044715a7131ceb484b10c8391745399298fcce81022dbb780a9efcac004486b7d989ef4bf0dfb5a4db7c599a8f9aa3393570ae",
         "revision": "0_08cb6031d03df4a2841da3aa51ae3bedb66609c1"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "98d873cde39437ae581e6b61ce30ca54634c9c1517b46a0f2774cb12db474b5a37759281b19283c60dbcfa44ac3e05d474a896310f64e8533603b1db73457494",
@@ -13529,14 +13559,18 @@
         "revision": "1_4bb6c7d8afce894ad0d40a2289c194d5c448285c"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "d767ad3b58111a0515c8a380d3bf376038066f24de65f5f88606f956c354f1750f5dc2e8fd647dfbbdae7a8dd70f3d8b3345ba7075534b8ed3aa344789cf73c2",
         "revision": "0_5241c1ad81944a59bb2efd68b31c97a39ef7d10b"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": false,
         "program": "syllables",
         "repo": "d767ad3b58111a0515c8a380d3bf376038066f24de65f5f88606f956c354f1750f5dc2e8fd647dfbbdae7a8dd70f3d8b3345ba7075534b8ed3aa344789cf73c2",
@@ -13552,14 +13586,18 @@
         "revision": "5_c0db4bbb19fe6d70f14a1b3157f3e62859765420"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "d120480a6e4bd3c4aa2ca882cf7c0aaa499d56c9c236aba6bea7aa935843da56c1ce494b71da9e2c2fd6016b05c84164bbd70867801caf480497fa51a3b78cb1",
         "revision": "4_6c6e7d2dac8786efcbb88f1ea4f1c3e428295a6d"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": false,
         "program": "syllables",
         "repo": "d120480a6e4bd3c4aa2ca882cf7c0aaa499d56c9c236aba6bea7aa935843da56c1ce494b71da9e2c2fd6016b05c84164bbd70867801caf480497fa51a3b78cb1",
@@ -13575,14 +13613,18 @@
         "revision": "6_8b6e04f8d27374e55637797bc1f422ad17bc91e0"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "035fe90b24b4ff56975fbd6242879bdfd422686189d7fedadb2ba64bb9820150b501dc681379bff2f1b0b2efd50a3dc272fea6fa3509cf3dfd088f8d0267888d",
         "revision": "0_8641aab62ccd9671168b7edc41c7f40ab4c511f6"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": false,
         "program": "syllables",
         "repo": "035fe90b24b4ff56975fbd6242879bdfd422686189d7fedadb2ba64bb9820150b501dc681379bff2f1b0b2efd50a3dc272fea6fa3509cf3dfd088f8d0267888d",
@@ -13598,14 +13640,18 @@
         "revision": "4_9f97548bc22ed4d9c93d4b72df94879fb3d9b8e2"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "output mismatch"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "7b78b2d5ab654253c4acb32046237950862d20275165bdb24a7584184a22d3cebeadb299f4e16fdf452f4dc6f958000d118d5ba60dea5645d143183573109d58",
         "revision": "2_811af03f0133e7aa314ac35fa93b659ab877541c"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "output mismatch"
+        ],
         "isReferenceDefect": false,
         "program": "syllables",
         "repo": "7b78b2d5ab654253c4acb32046237950862d20275165bdb24a7584184a22d3cebeadb299f4e16fdf452f4dc6f958000d118d5ba60dea5645d143183573109d58",
@@ -13621,35 +13667,45 @@
         "revision": "17_f3740063219b2def86e71a6e0b00c3679eb349a3"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "d9e7eab5f82342d78fb20833701c4e9f900e8fcb737038d3a2ad18f664532af4d6332b7d14841c9ac773c52f6590b754f76df1f430a35bc8ca4799a767cdec6d",
         "revision": "1_6daf46419a6cbaf8316c55c27f60ec0f454c20bc"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "output mismatch"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b",
         "revision": "1_c42ed64b247356e7bf19b1ef4bffb73d854e17d8"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "output mismatch"
+        ],
         "isReferenceDefect": false,
         "program": "syllables",
         "repo": "93f87bf20be12abd3b52e14015efb6d78b6038d2022e0ab5889979f9c6b6c8c757d6b5a59feae9f8415158057992ae837da76609dc156ea76b5cca7a43a4678b",
         "revision": "1_c42ed64b247356e7bf19b1ef4bffb73d854e17d8"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "3cf6d33ab0357953aa5826c67dc74c4aa483f16ef04c973a68d58cda6f19ea712954b24f366f880b9c18b628c6605eabc4d3e80dc4aa120fac80fe680e2e708f",
         "revision": "2_737227720ffe0760ef54decece6745f3cb1ad402"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": false,
         "program": "syllables",
         "repo": "3cf6d33ab0357953aa5826c67dc74c4aa483f16ef04c973a68d58cda6f19ea712954b24f366f880b9c18b628c6605eabc4d3e80dc4aa120fac80fe680e2e708f",
@@ -13665,14 +13721,18 @@
         "revision": "1_f47f4356ae1f4d8e379e31ff7d33027f98ea8f75"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "cd2d9b5b5cff96b07c5b22c0d139ffa2aa36b01823c9eb4db6eca19065a0ce2c4d2516bfcc2f1bc95daeae5b0bbd5e9c15b83feda776735e7bc3de6c49d25144",
         "revision": "5_025f1c85b07abbeeeb660d9d1a7afb996bb445f8"
     },
     {
-        "bugclasses": [],
+        "bugclasses": [
+            "nondeterminism"
+        ],
         "isReferenceDefect": true,
         "program": "syllables",
         "repo": "ea67b84145a12733c524b716da44f36a42cf815013d14cafbd2a66a5a4c8b5a99022c355960cd62ca71a640315747cd604afdfa9ec753d1739c686734b2798a7",
